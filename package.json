@@ -12,6 +12,7 @@
   },
   "browser": {
     "app": "./resources/assets/js/app.js",
+    "badapp": "./resources/assets/js/badapp.js",
     "utils": "./resources/assets/js/utils.js"
   },
   "browserify": {

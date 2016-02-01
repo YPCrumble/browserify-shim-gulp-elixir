@@ -1,10 +1,12 @@
 var $ = require('jquery');
 var Utils = require('utils');
 var App = require('app');
+var BadApp = require('badapp');
 console.log("jQuery is");
 console.log($);
 console.log("utils is");
 console.log(Utils);
 console.log("app is");
 console.log(App);
-
+console.log("bad app is");
+console.log(BadApp);
